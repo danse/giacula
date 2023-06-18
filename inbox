@@ -1,4 +1,6 @@
 
+sumak kawsay
+
 git log v0.3..HEAD --oneline
 
 just setQuery(minute) to see it in the bar ;)
